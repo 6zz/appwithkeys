@@ -1,0 +1,1 @@
+This repo is used to test git-crypt to securely store key files in a public git repo.
